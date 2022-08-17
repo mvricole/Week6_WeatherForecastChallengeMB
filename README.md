@@ -36,6 +36,7 @@ Deployed Image
 Contributions
 -----------------------
 API Used
+
 https://api.openweathermap.org/data/2.5/weather?q
 
 https://momentjs.com/
