@@ -30,7 +30,7 @@ In order to complete this task, students were asked to create a scheduler that d
 
 Deployed Image
 -----------------------
-![Screenshot](_C__Users_Marian%20Nicole_MBorjaBootcampChallenges_Week%206%20Challenge%20Weather%20API_index.html.png)
+![Screenshot](https://github.com/mvricole/Week6_WeatherForecastChallengeMB/blob/38691ccfaa53efd3dedc59aafdcda4e10bbda8ec/_C__Users_Marian%2520Nicole_MBorjaBootcampChallenges_Week%25206%2520Challenge%2520Weather%2520API_index.html.png)
 
 
 Contributions
