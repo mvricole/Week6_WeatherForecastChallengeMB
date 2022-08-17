@@ -36,7 +36,7 @@ Deployed Image
 Contributions
 -----------------------
 API Used
-https://api.openweathermap.org/data/2.5/weather?q=
+https://api.openweathermap.org/data/2.5/weather?q
 https://momentjs.com/
 
 Background Image: https://64.media.tumblr.com/162cc3dfa5cef6c882aba5453445f0fb/tumblr_mx3y1yYFad1qcm0eto1_1280.png
